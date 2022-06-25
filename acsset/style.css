@@ -16,7 +16,8 @@ box-sizing: inherit;
 }
 
 body {
-background: url('./img/bg3.png') no-repeat fixed center;
+background: url('./img/logoo.png') no-repeat fixed center;
+background-size:cover;
 }
 
 html {
